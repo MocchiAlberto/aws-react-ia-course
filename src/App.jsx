@@ -52,7 +52,7 @@ function App() {
 
   return (
     <div className="App">
-      <h2>My AI image generator</h2>
+      <h1>My AI image generator</h1>
     </div>
   );
 }
